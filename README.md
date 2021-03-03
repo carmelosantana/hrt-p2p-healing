@@ -1,9 +1,10 @@
 # Afternoon Maroon
 
-**P2P Healing** `v0.1.0-prerelease.2`
+**P2P Healing** `v0.1.0-prerelease.3`
 
 - [Mission Statement](#mission-statement)
 - [Community](#community)
+  - [Roles](#roles)
 - [♥ HRT](#-hrt)
   - [Wallet](#wallet)
   - [Node](#node)
@@ -21,9 +22,11 @@ Membership is free and participation is not only welcomed by rewarded. All membe
 
 Any registered user can produce content or participate in the market as a buyer or seller.
 
-Users can be verified by a vote and a community consensus.
+Users can be verified by a peer initiated vote and a community consensus.
 
-Users can identify with roles. Some are granted by the system automatically.
+### Roles
+
+Users can identify with multiple roles. Some are granted by **Afternoon Maroon** automatically.
 
 | Role | Description |
 | --- | --- |
@@ -31,18 +34,18 @@ Users can identify with roles. Some are granted by the system automatically.
 | practitioner | Offers in-person or virtual services |
 | vendor | Produces physical or virtual goods |
 | mod | Community moderator |
-| support | Help  |
+| support | Member of support team |
 | verified | Trusted member of the community voted by peers |
 | node | Operates a copy of the HRT ledger |
 | miner | Mines HRT |
 
-All community members must adhere to our Code of Conduct.
+All community members must adhere to our [Code of Conduct](CODE_OF_CONDUCT).md.
 
 ## ♥ HRT
 
 Heart (HRT) token is the cryptocurrency providing **Afternoon Maroon** with an honest reward system providing acknowledgment of active community members, facilitates trade and serves a critical role in our community voting procedures.
 
-HRT is the life force empowering our group consensus. 
+HRT is the life force empowering our group consensus.
 
 ### Wallet
 
