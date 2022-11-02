@@ -1,6 +1,6 @@
-# Afternoon Maroon
+# P2P Healing
 
-**P2P Healing** `v0.1.0-prerelease.3`
+`v0.1.0-prerelease.3`
 
 - [Mission Statement](#mission-statement)
 - [Community](#community)
